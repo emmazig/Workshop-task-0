@@ -1,4 +1,6 @@
-# Workshop-0
+# Workshop-0 
+
+This is the URL - https://emmazig.github.io/Workshop-0/
 
 I played around with my background colour until I was happy with it, just figuring out how the different amounts of colour worked with each other. 
 
